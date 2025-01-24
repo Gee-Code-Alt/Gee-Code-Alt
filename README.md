@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Gee-Code-Alt/Gee-Code-Alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# George - Entry-Level Data Analyst
 
-Here are some ideas to get you started:
+## About Me
+I'm passionate about transforming data into insights. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Analysis:** Statistical analysis, data cleaning.
+- **Tools:** Excel, SQL, Python (Pandas), R, Tableau.
+
+## Projects
+- **Sales Data Analysis** - Identified sales trends.
+- **Customer Feedback Analysis** - Enhanced product features.
+
+## Education
+- **Courses:** Data Analysis, SQL.
+
+## Certifications
+- SQL Fundamentals
+- Intro to Data Analysis
+
+## Looking For
+- Real-world data experience.
+- Mentorship in analytics.
+
+
